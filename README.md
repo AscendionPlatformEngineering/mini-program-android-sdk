@@ -44,7 +44,5 @@ This repository provides instructions to integrate the MiniApp SDK into your And
  }
 ```
 ## Step 4: Sync the Project
-
-```Sync your project to download dependencies and complete the setup.You are now ready to use the Mini Program SDK in your application.
-```
+```Sync your project to download dependencies and complete the setup.You are now ready to use the Mini Program SDK in your application.```
 
