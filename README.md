@@ -43,6 +43,15 @@ This repository provides instructions to integrate the MiniApp SDK into your And
     }
  }
 ```
-## Step 4: Sync the Project
+
+## Step 4: Add the Dependency
+```Add the following dependency to your app's `build.gradle.kts` file: ```
+
+```kotlin
+dependencies {
+    implementation("com.ascendion:mini-program-sdk:0.1.18")
+}
+```
+## Step 5: Sync the Project
 ```Sync your project to download dependencies and complete the setup.You are now ready to use the Mini Program SDK in your application.```
 
